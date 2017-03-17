@@ -63,7 +63,7 @@ header li {
   margin: 15px;
   height: px;
   width: 30%;
-  display: inline-block;
+  display: inline-grid;
 
 }
 
