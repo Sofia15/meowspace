@@ -5,14 +5,19 @@ header h2, nav {
 
 header nav {
   float: right;
+  padding-right: 40px;
   /*-webkit-margin-before: 0.83em;
   -webkit-margin-after: 0.83em;
   -webkit-margin-start: 0px;
   -webkit-margin-end: 0px;*/
 }
 
+header h2 {
+  padding-left: 40px;
+}
+
 header {
-  margin: 0 7%;
+  /*margin: 0 7%;*/
   background: pink;
 }
 
