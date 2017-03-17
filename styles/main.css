@@ -1,0 +1,147 @@
+header h2, nav {
+  display: inline-block;
+  /*margin: 16px 20px;*/
+}
+
+header nav {
+  float: right;
+  /*-webkit-margin-before: 0.83em;
+  -webkit-margin-after: 0.83em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;*/
+}
+
+header {
+  margin: 0 7%
+}
+
+header nav {
+  margin: .83em;
+}
+
+header li {
+  display: inline-block;
+  text-align: right;
+  margin-left: 15px;
+}
+
+#cat {
+  background-image: url("../assets/hero.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 700px;
+  max-width: 100%;
+}
+
+#cat h1 {
+  line-height: 20;
+  text-align: center;
+  font-size: 2.5em;
+}
+
+.popular-posts {
+  border-bottom: 3px solid black;
+}
+
+.popular-posts h2 {
+  text-align: center;
+}
+
+.post-row {
+  margin: 0 auto;
+}
+
+.popular-posts article {
+  border: black 1px solid;
+  border-radius: 20px;
+  border-color: black;
+  border-width: 3px;
+  height: 200px;
+  /*padding: 30px;*/
+  /*30pixels of white space*/
+  /*padding-left: 15px;
+  padding-top: 15px;*/
+
+  margin: 15px;
+  height: px;
+  width: 30%;
+  display: inline-block;
+
+}
+
+.popular-posts article h3 {
+  border-bottom: black 1px solid;*/
+  /*border: dashed;*/
+  border-color: black;
+  border-width: 3px;
+  text-align: center;
+  padding-bottom: 10px;
+
+}
+
+.popular-posts article p {
+  margin: 10px;
+}
+
+.popular-posts article a {
+  border: blue 1px solid;
+  border-radius: 6px;
+  padding: 5px;
+  margin-left: 200px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+#join img {
+  display: inline-block;
+  width: 30%;
+}
+
+.join_the_club {
+  display: inline-block;
+  /*margin: 10px 80% 35px 0%;*/
+  width: 30%;
+}
+
+#join {
+  margin: 1%;
+}
+.everybody {
+  clear: both;
+  background-image: url("../assets/everybody.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 700px;
+  max-width: 100%;
+}
+
+.everybody h2 {
+  line-height: 20;
+  text-align: center;
+  font-size: 2.5em;
+  color: white;
+}
+
+footer nav {
+  display: inline-block;
+  width: 30%;
+}
+
+.copyright {
+  display: inline-block;
+  /*margin: 10px 80% 35px 0%;*/
+  width: 30%;
+}
+
+.copyright h4 {
+  float: left;
+  margin: 0;
+}
+
+.copyright p {
+  margin: 0;
+}
+
+footer {
+  margin: 0 auto;
+}
