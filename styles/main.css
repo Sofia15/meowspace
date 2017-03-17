@@ -12,7 +12,8 @@ header nav {
 }
 
 header {
-  margin: 0 7%
+  margin: 0 7%;
+  background: pink;
 }
 
 header nav {
@@ -57,11 +58,7 @@ header li {
   border-color: black;
   border-width: 3px;
   height: 200px;
-  /*padding: 30px;*/
-  /*30pixels of white space*/
-  /*padding-left: 15px;
-  padding-top: 15px;*/
-
+  background: pink;
   margin: 15px;
   height: px;
   width: 30%;
