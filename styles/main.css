@@ -26,6 +26,10 @@ header li {
   margin-left: 15px;
 }
 
+header a {
+  text-decoration: none;
+}
+
 #cat {
   background-image: url("../assets/hero.jpg");
   background-size: cover;
